@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @allansanyaz
-- 👀 I’m interested in Python pogramming, machine learning and bioinformatics
+- 👀 I’m interested in Web & Software development, Python pogramming, machine learning and bioinformatics
 - 💞️ I’m looking to collaborate on intergration between machine learning and bioinformatics
-- 📫 You can reach me via email or Twitter
+- 📫 You can reach me via email
 
 <!---
 allansanyaz/allansanyaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
